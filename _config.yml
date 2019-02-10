@@ -1,7 +1,7 @@
 # Site
 title:              Kylzz
 bio:                'A High school student,A Minecraft PVP Gamer,and a cool boy :).'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "A High school student,A Minecraft PVP Gamer,and a cool boy :)."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         Kylzz
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username

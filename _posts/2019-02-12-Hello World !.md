@@ -3,7 +3,6 @@ layout: post
 title:  "Hello World !"
 date:   2019-02-12
 excerpt: "Hey,this is my first post!:)"
-project: true
 tag: 
 - blog
 - about

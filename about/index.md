@@ -20,12 +20,12 @@ comments: false
 ## Why
 其实大概一年前就打算开始写博客了，但是由于各方面原因一直拖到现在(绝对不是我懒:v)。
 至于为什么我决定开始写博客，主要是出于以下几个目的：
-*更充分地记录与展示（区别于碎片化展示）
-*认识更多志同道合的朋友，扩展自己真正的人脉
-*对往事全面的回忆，搭建一个真正可供回忆的平台（区别于碎片化记录）
-*真正的自由化（免费诚可贵，自由价更高），拥有其他社交平台无可比拟的自由
+* 更充分地记录与展示（区别于碎片化展示）
+* 认识更多志同道合的朋友，扩展自己真正的人脉
+* 对往事全面的回忆，搭建一个真正可供回忆的平台（区别于碎片化记录）
+* 真正的自由化（免费诚可贵，自由价更高），拥有其他社交平台无可比拟的自由
 
-##Is blog dead?
+## Is blog dead?
 这个问题对于刚刚开始接触blog的我来说，显然我并不具有发言权，这里先给出知乎上的一个优秀回答：
 作者：Gromit
 链接：https://www.zhihu.com/question/19626397/answer/12804231
@@ -45,8 +45,8 @@ comments: false
 至于我的观点：
 除了记录外，独立博客就是“你”，「这一切都是因为你，同时也呈现你」，它是一个专属于你自己的写作、记录、呈现的地方。它叫博客，但又不只是博客，而他的生命周期自然也取决于你。
 
-##Personal links
-*My email(QQ):1692151000@qq.com
-*bilibili:http://space.bilibili.com/97063145?
-*网易云音乐:https://music.163.com/#/user/home?id=135230208
-*Youtube:https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8
+## Personal links
+* My email(QQ):1692151000@qq.com
+* bilibili:http://space.bilibili.com/97063145?
+* 网易云音乐:https://music.163.com/#/user/home?id=135230208
+* Youtube:https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8

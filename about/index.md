@@ -29,7 +29,7 @@ comments: false
 这个问题对于刚刚开始接触blog的我来说，显然我并不具有发言权，这里先给出知乎上的一个优秀回答：
 
 作者：Gromit
-链接：url:https://www.zhihu.com/question/19626397/answer/12804231
+链接：https://www.zhihu.com/question/19626397/answer/12804231
 
 2005年的时候，写博客是一种流行；2011年的时候，写博客是一种坚持。
 
@@ -50,6 +50,6 @@ comments: false
 
 ## Personal links
 * My email(QQ):1692151000@qq.com
-* bilibili:url:http://space.bilibili.com/97063145?
-* NetEaseCloudmusic:url:https://music.163.com/#/user/home?id=135230208
-* Youtube:url:https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8
+* bilibili:http://space.bilibili.com/97063145?
+* NetEaseCloudmusic:https://music.163.com/#/user/home?id=135230208
+* Youtube:https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8

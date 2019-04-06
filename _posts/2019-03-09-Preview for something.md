@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preview for something."
-date:   2019-03-8
+date:   2019-04-05
 excerpt: "未来博客主要更新动向及近期计划。:-v"
 tag: 
 - blog

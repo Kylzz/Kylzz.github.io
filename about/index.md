@@ -49,6 +49,7 @@ comments: false
 
 ## Personal links
 * [My QQ](http://wpa.qq.com/msgrd?v=3&uin=1692151000&site=qq&menu=yes)
-* [Youtube](https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8)
+* [My Zhihu](https://www.zhihu.com/people/kylzz/activities)
 * [Bilibili](http://space.bilibili.com/97063145?)
+* [Youtube](https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8)
 * [NetEaseCloudmusic](https://music.163.com/#/user/home?id=135230208)

@@ -48,8 +48,8 @@ comments: false
 除了记录外，独立博客就是“你”，「这一切都是因为你，同时也呈现你」，它是一个专属于你自己的写作、记录、呈现的地方。它叫博客，但又不只是博客，而他的生命周期自然也取决于你。
 
 ## Personal links
-* [My QQ](http://wpa.qq.com/msgrd?v=3&uin=1692151000&site=qq&menu=yes)
-* [My Zhihu](https://www.zhihu.com/people/kylzz/activities)
+* [QQ](http://wpa.qq.com/msgrd?v=3&uin=1692151000&site=qq&menu=yes)
+* [Zhihu](https://www.zhihu.com/people/kylzz/activities)
 * [Bilibili](http://space.bilibili.com/97063145?)
 * [Youtube](https://www.youtube.com/channel/UC9ErgBLHAQFwEOLcCCze5EA8)
 * [NetEaseCloudmusic](https://music.163.com/#/user/home?id=135230208)

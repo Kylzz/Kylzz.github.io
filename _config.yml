@@ -74,11 +74,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-valine_comment:
-  enable: true
-# app_id
-  leancloud_appid: XNh7mjUIYMfuLlMFLhk9Opk8-gzGzoHsz
-# app_key
-  leancloud_appkey: X66B5xY7fCwwqgazjPWqQtJJ
-# placeholde
-  placeholder: “Just for thinking"
